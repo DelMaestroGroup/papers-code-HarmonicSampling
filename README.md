@@ -1,5 +1,6 @@
 [![Paper](https://img.shields.io/badge/paper-arXiv%3A2511.04597-B31B1B.svg)](https://arxiv.org/abs/2511.04597)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://zenodo.org/badge/latestdoi/XXXXYYYYY)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17662474.svg)](https://doi.org/10.5281/zenodo.17662473)
+
 
 # Combining Harmonic Sampling with the Worm Algorithm to Improve the Efficiency of Path Integral Monte Carlo
 
