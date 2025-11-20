@@ -15,7 +15,7 @@ We propose an improved Path Integral Monte Carlo (PIMC) algorithm called Harmoni
 This repository includes links, code, scripts, and data to generate the figures in a paper.
 
 ### Requirements
-The data in this project was generated via the H-PIMC publicly available [here](https://github.com/paulsphys/HarmonicPIMC).  Processed data is included in the [data]([https://github.com/DelMaestroGroup/papers-code-template/tree/main/data](https://github.com/DelMaestroGroup/papers-code-HarmonicSampling/tree/main/data)) directory
+The data in this project was generated via the H-PIMC publicly available [here](https://github.com/paulsphys/HarmonicPIMC).  Processed data is included in the [data](https://github.com/DelMaestroGroup/papers-code-HarmonicSampling/tree/main/data) directory
 
 
 ### Support
