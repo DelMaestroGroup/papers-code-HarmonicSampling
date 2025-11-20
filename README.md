@@ -15,22 +15,33 @@ We propose an improved Path Integral Monte Carlo (PIMC) algorithm called Harmoni
 This repository includes links, code, scripts, and data to generate the figures in a paper.
 
 ### Requirements
-The data in this project was generated via ...  Processed data is included in the [data](https://github.com/DelMaestroGroup/papers-code-template/tree/main/data) directory and the full raw simulation data set is available online at [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXXX)
+The data in this project was generated via the H-PIMC publicly available [here](https://github.com/paulsphys/HarmonicPIMC).  Processed data is included in the [data](https://github.com/DelMaestroGroup/papers-code-template/tree/main/data) directory
 
-1. A minimal environment to execute these notebooks can be installed via `pip install -r requirements.txt`
-2. [Dependency Name](https://dependencelink)
-3. ...
 
 ### Support
-This work was performed with support from the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Award Number DE-SC0024333.
+This work was performed with support from the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Award Number DE-SC0024333, the Israel Science Foundation (grants No. 1037/22 and 1312/22) and the Center for Computational Molecular and Materials Science at Tel Aviv University.
 
-<img width="400px" src="https://science.osti.gov/assets/img/doe-logos/logo.png">
-
+<img width="300px" src="https://science.osti.gov/assets/img/doe-logos/logo.png"><img width="300px" src="https://isf.org.il/Images/logoENG.png"><img width="300px" src="https://static.wixstatic.com/media/32ed9b_d04d2862e45e44e1a8392bd14d4b0d0a~mv2.png/v1/fill/w_285,h_211,al_c,lg_1,q_85,enc_avif,quality_auto/logo%20(1111).png">
 
 ### Figures
 
-#### Figure 01: Figure Name
-<img src="https://github.com/DelMaestroGroup/papers-code-template/blob/main/figures/figure01.svg" width="400px">
+#### Figure 02: PIMC vs H-PIMC
+<img src="figures/Fig2.svg" width="400px">
 
-This figure is relesed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
+#### Figure 03: PIMC vs H-PIMC for different anharmonicities
+<img src="figures/Fig3.svg" width="400px">
+
+#### Figure 04: Many body PIMC vs H-PIMC for different anharmonicities
+<img src="figures/ManyBodyAnharmonic.svg" width="400px">
+
+#### Figure 05: Speedup vs anharmonicity
+<img src="figures/anhpot_mpimc6.svg" width="400px">
+
+#### Figure 06: WallClocktime
+<img src="figures/wallclocktime.svg" width="400px">
+
+#### Figure 08: 2-body Speedup vs anharmonicity
+<img src="figures/2bodySpeedup.svg" width="400px">
+
+These figures are released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) and can be freely copied, redistributed and remixed.
 
