@@ -21,7 +21,7 @@ The data in this project was generated via the H-PIMC publicly available [here](
 ### Support
 This work was performed with support from the U.S. Department of Energy, Office of Science, Office of Basic Energy Sciences, under Award Number DE-SC0024333, the Israel Science Foundation (grants No. 1037/22 and 1312/22) and the Center for Computational Molecular and Materials Science at Tel Aviv University.
 
-<img width="300px" src="https://science.osti.gov/assets/img/doe-logos/logo.png"><img width="300px" src="https://isf.org.il/Images/logoENG.png"><img width="300px" src="https://static.wixstatic.com/media/32ed9b_d04d2862e45e44e1a8392bd14d4b0d0a~mv2.png/v1/fill/w_285,h_211,al_c,lg_1,q_85,enc_avif,quality_auto/logo%20(1111).png">
+<img width="200px" src="https://science.osti.gov/assets/img/doe-logos/logo.png"><img width="200px" src="https://isf.org.il/Images/logoENG.png"><img width="200px" src="https://static.wixstatic.com/media/32ed9b_d04d2862e45e44e1a8392bd14d4b0d0a~mv2.png/v1/fill/w_285,h_211,al_c,lg_1,q_85,enc_avif,quality_auto/logo%20(1111).png">
 
 ### Figures
 
