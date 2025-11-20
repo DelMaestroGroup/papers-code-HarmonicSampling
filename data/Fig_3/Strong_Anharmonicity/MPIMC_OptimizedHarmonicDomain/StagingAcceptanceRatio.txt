@@ -1,0 +1,3 @@
+# bhw, mpimc acceptance ratio
+8, 0.415
+16, 0.225

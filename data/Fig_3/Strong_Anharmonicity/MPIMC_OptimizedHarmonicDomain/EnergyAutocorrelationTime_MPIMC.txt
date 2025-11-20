@@ -1,0 +1,3 @@
+# bhw, autocorrelation time, standard deviation
+8.0, 4.44255, 0.014315
+16.0, 11.376966, 0.060236
