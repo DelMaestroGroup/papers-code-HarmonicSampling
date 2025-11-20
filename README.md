@@ -40,6 +40,9 @@ This work was performed with support from the U.S. Department of Energy, Office 
 #### Figure 06: WallClocktime
 <img src="figures/wallclocktime.svg" width="400px">
 
+#### Figure 07: M-PIMC with periodic boundaries
+<img src="figures/Fig7.svg" width="400px">
+
 #### Figure 08: 2-body Speedup vs anharmonicity
 <img src="figures/2bodySpeedup.svg" width="400px">
 
